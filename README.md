@@ -17,7 +17,7 @@ Nizhny Novgorod
         <img src="images/icons8-html-5-1024.png" alt="html" width="64px">
         <img src="images/icons8-css3-1024.png" alt="css" width="64px">
         <img src="images/icons8-javascript-1024.png" alt="javascript" width="64px">
-        <img src="images/icons8-c-sharp-logo-1024.png" alt="" width="64px">
+        <img src="icons/icons8-c-sharp-logo-1024.png" alt="" width="64px">
 </p>
                     
 
