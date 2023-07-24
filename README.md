@@ -1,12 +1,15 @@
 <h1 align="center">Привет, меня зовут Алексей 👋</h1>
 <h3 align="center">Я занимаюсь Frontend и Backend разработкой</h3>
-<p>Самостоятельно изучаю программирование и пишу код на:</p>
+<p>Самостоятельно изучаю программирование</p>
+<p>Programming languages:</p>
 <ul>
   <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></li>
   <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></li>
   <li><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></li>
   <li><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></li>
 </ul>
+<p>Frameworks and Libraries:</p>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <p>Связаться со мной:</p>
 <ul>
   <li>Telegram</li>
