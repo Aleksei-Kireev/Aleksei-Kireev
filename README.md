@@ -1,4 +1,4 @@
-<h1 align="center">Привет! Меня зовут Алексей 👋</h1>
+<h1 align="center">Hi there, I'm Aleksei 👋</h1>
 <!--
 **Aleksei-Kireev/Aleksei-Kireev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
