@@ -2,10 +2,10 @@
 <h3 align="center">Frontend Developer</h3>
 <p align="center">🚩 Nizhny Novgorod</p>
 <p align="center">
-        <a href="#"><img src="icons/icons8-linkedin-1024.png" alt="linkedin" width="64px"></a>
-        <a href="#"><img src="icons/icons8-telegram-1024.png" alt="telegram" width="64px"></a>
-        <a href="#"><img src="icons/icons8-github-1024.png" alt="github" width="64px"></a>
-        <a href="#"><img src="icons/icons8-whatsapp-1024.png" alt="whatsapp" width="64px"></a>
+        <a href="#"><img src="icons/icons8-linkedin-1024.png" alt="linkedin" width="32px"></a>
+        <a href="#"><img src="icons/icons8-telegram-1024.png" alt="telegram" width="32px"></a>
+        <a href="#"><img src="icons/icons8-github-1024.png" alt="github" width="32px"></a>
+        <a href="#"><img src="icons/icons8-whatsapp-1024.png" alt="whatsapp" width="32px"></a>
 </p>
 <h2>Обо мне</h2>
 <p>Что-то, что заполню позже.</p>
