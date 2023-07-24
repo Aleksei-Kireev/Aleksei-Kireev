@@ -6,6 +6,11 @@
   <li>JavaScript</li>
   <li>C#</li>
 </ul>
+<p>Связаться со мной:</p>
+<ul>
+  <li>Telegram</li>
+  <li>LinkedIn</li>
+</ul>
 
 <!--
 **Aleksei-Kireev/Aleksei-Kireev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
