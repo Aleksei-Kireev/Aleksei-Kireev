@@ -1,4 +1,12 @@
-<h1 align="center">Hi there, I'm Aleksei 👋</h1>
+<h1 align="center">Привет, меня зовут Алексей 👋</h1>
+<h3 align="center">Я занимаюсь Frontend и Backend разработкой</h3>
+<p>Самостоятельно изучаю программирование и пишу код на:</p>
+<ul>
+  <li>HTML/CSS</li>
+  <li>JavaScript</li>
+  <li>C#</li>
+</ul>
+
 <!--
 **Aleksei-Kireev/Aleksei-Kireev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
