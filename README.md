@@ -10,6 +10,10 @@
 </ul>
 <p>Frameworks and Libraries:</p>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<p>Tools:</p>
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
 <p>Связаться со мной:</p>
 <ul>
   <li>Telegram</li>
