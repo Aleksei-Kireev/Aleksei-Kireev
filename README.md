@@ -16,6 +16,12 @@
         <img src="icons/icons8-javascript-1024.png" alt="javascript" width="64px">
         <img src="icons/icons8-c-sharp-logo-1024.png" alt="" width="64px">
 </p>
+<p>
+        <img src="icons/icons8-git-1024.png" alt="" width="64px">
+        <img src="icons/icons8-visual-studio-code-2019-1024.png" alt="" width="64px">
+        <img src="icons/icons8-figma-1024.png" alt="" width="64px">
+        <img src="icons/icons8-mysql-logo-1024.png" alt="" width="64px">
+</p>
                     
 
 
