@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 My name is Aleksei</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Front-end developer</h3>
 <p align="center">🚩 Nizhny Novgorod</p>
 <p align="center">
         <a href="#"><img src="icons/icons8-linkedin-1024.png" alt="linkedin" width="32px"></a>
