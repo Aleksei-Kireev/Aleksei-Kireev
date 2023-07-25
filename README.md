@@ -22,8 +22,8 @@
         <img src="icons/icons8-figma-1024.png" alt="" width="64px">
         <img src="icons/icons8-mysql-logo-1024.png" alt="" width="64px">
 </p>
-                    
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksei-Kireev)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Aleksei-Kireev/Aleksei-Kireev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
