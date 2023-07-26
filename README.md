@@ -8,10 +8,13 @@
         <a href="https://github.com/Aleksei-Kireev"><img src="icons/icons8-github-1024.png" alt="github" width="32px"></a>
 </p>
 <h2>👦 About me</h2>
-<p>I am a Front-end Developer from Russia</p>
-<ul>
-        <li></li>
-</ul>
+<p>I do development as a hobby. I love programming and learning new things.</p>
+        <p>I also like:</p>
+        <ul>
+            <li>⚽ football;</li>
+            <li>🚶‍♂️ walk;</li>
+            <li>and ☕ coffee.</li>
+        </ul>
 <h2>🛠 Languages and Tools</h2>
 <p>
         <img src="icons/icons8-html-5-1024.png" alt="html" width="64px">
