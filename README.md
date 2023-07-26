@@ -7,7 +7,7 @@
         <a href="https://github.com/Aleksei-Kireev"><img src="icons/icons8-github-1024 (1).png" alt="github" width="32px"></a>
 </p>
 <h2>👦 About me</h2>
-<div style="font-size: 24pt;">
+<div style="font-size: 24;">
         <p>I do development as a hobby. I love programming and learning new things.</p>
         <p>I also like:</p>
         <ul>
