@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋 My name is Aleksei</h1>
-<h3 align="center">Front-end Developer</h3>
+<h1 align="center">Hi, there, I'am Aleksei 👋</h1>
+<h3 align="center">Frontend developer</h3>
 <p align="center">🚩 Nizhny Novgorod</p>
 <p align="center">
-        <a href="#"><img src="icons/icons8-linkedin-1024.png" alt="linkedin" width="32px"></a>
+        <a href="https://www.linkedin.com/in/aleksei-kireev-25563b282/"><img src="icons/icons8-linkedin-1024.png" alt="linkedin" width="32px"></a>
         <a href="https://t.me/alkir152"><img src="icons/icons8-telegram-1024.png" alt="telegram" width="32px"></a>
         <a href="#"><img src="icons/icons8-whatsapp-1024.png" alt="whatsapp" width="32px"></a>
         <a href="https://github.com/Aleksei-Kireev"><img src="icons/icons8-github-1024.png" alt="github" width="32px"></a>
